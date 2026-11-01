@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%" fill="none">
+  <defs>
+    <linearGradient id="peachGrad3" x1="0" y1="0" x2="800" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFF9F5"/>
+      <stop offset="100%" stop-color="#FAECE2"/>
+    </linearGradient>
+    <pattern id="dotGrid3" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#EBDDD5"/>
+    </pattern>
+  </defs>
+
+  <rect width="800" height="500" fill="url(#peachGrad3)"/>
+  <rect width="800" height="500" fill="url(#dotGrid3)"/>
+  <rect x="24" y="24" width="752" height="452" rx="12" fill="none" stroke="#EBDDD5" stroke-width="2" stroke-dasharray="8 8"/>
+
+  <g transform="translate(400, 250)">
+    <circle cx="0" cy="-60" r="46" fill="#FED7B8" stroke="#EBDDD5" stroke-width="2"/>
+    <path d="M -16 -68 L 16 -68 C 19 -68 21 -66 21 -63 L 21 -47 C 21 -44 19 -42 16 -42 L -16 -42 C -19 -42 -21 -44 -21 -47 L -21 -63 C -21 -66 -19 -68 -16 -68 Z" fill="none" stroke="#59171B" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="-9" cy="-58" r="3.5" fill="#59171B"/>
+    <path d="M 21 -49 L 7 -58 L -7 -48 L -14 -52 L -21 -46" stroke="#59171B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="16" cy="-42" r="12" fill="#59171B"/>
+    <path d="M 16 -48 L 11 -43 L 14 -43 L 14 -36 L 18 -36 L 18 -43 L 21 -43 Z" fill="#FED7B8"/>
+
+    <text x="0" y="16" font-family="'Playfair Display', Georgia, serif" font-size="22" font-weight="700" fill="#59171B" text-anchor="middle">Safar-e-Pakistan</text>
+    <text x="0" y="44" font-family="'DM Sans', sans-serif" font-size="14" font-weight="500" fill="#806D6A" text-anchor="middle">Upload Project Screenshot (16:10 Ratio)</text>
+    
+    <rect x="-140" y="68" width="280" height="30" rx="15" fill="#FFFFFF" stroke="#EBDDD5" stroke-width="1.5"/>
+    <text x="0" y="88" font-family="'DM Sans', sans-serif" font-size="12" font-weight="600" fill="#59171B" text-anchor="middle">Click "Upload Screenshot" to load file</text>
+  </g>
+</svg>

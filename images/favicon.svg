@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="20" fill="#59171B"/>
+  <rect x="6" y="6" width="88" height="88" rx="14" fill="none" stroke="#FED7B8" stroke-width="2" stroke-opacity="0.6"/>
+  <text x="50" y="62" font-family="'Playfair Display', Georgia, serif" font-size="38" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">UM</text>
+  <circle cx="74" cy="38" r="4.5" fill="#FED7B8"/>
+</svg>
